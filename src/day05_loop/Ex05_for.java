@@ -9,7 +9,7 @@ public class Ex05_for {
 			System.out.println("+++시작");
 			for(su2=1 ; su2<=10 ; su2++) {
 				System.out.println(su2+ ".실행");
-				sum+=1; //sum= sum+1
+				sum+=1; //sum = sum+1
 			}
 			System.out.println("끝---");
 		}
